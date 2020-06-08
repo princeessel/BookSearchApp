@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BookSearchApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="favourite_book_list">Your favourite Books are here.</string>
+    <string name="search">Search Books..</string>
+</resources>
