@@ -1,7 +1,7 @@
 # BookSearchApp
 A Simple Book Search App.
 
-1) This app that searches the 
+1) This app searches the 
 OpenLibrary API to search books and display cover images  
 and also allows you to recommend books to friends.
  
